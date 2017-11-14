@@ -1,9 +1,689 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Truck">
+    <ContractorCode Code="40">
+      <ContractorName>बशिर गुलाब शेख (समर्थ)  </ContractorName>
+      <VehicleNo>MH41-5164</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2891">
+      <ContractorName>नवनाथ रेखा आडे  (समर्थ) </ContractorName>
+      <VehicleNo>MH12-6365</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="110">
+      <ContractorName>बाबासाहेब गणपत चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH04-4985</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="1493">
+      <ContractorName>रोहीदास धन्नु चव्हाण (समर्थ) </ContractorName>
+      <VehicleNo>MH20-5254</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="64">
+      <ContractorName>नरेश गणपतराव पानखडे (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-4826</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="84">
+      <ContractorName>कांचन विजय कनुजे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-5668</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="62">
+      <ContractorName>काकासाहेब बापुराव पौळ (समर्थ)  </ContractorName>
+      <VehicleNo>MH18-4161</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="61">
+      <ContractorName>हनुमंत नारायण जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-2376</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="1503">
+      <ContractorName>भगवान लिंबाजी पैठणे (समर्थ)  </ContractorName>
+      <VehicleNo>MH04-7154</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="294">
+      <ContractorName>सुरेश नानासाहेब मार्गे (समर्थ)  </ContractorName>
+      <VehicleNo>MH12-1172</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="63">
+      <ContractorName>सुनील बळीराम उदे (समर्थ)  </ContractorName>
+      <VehicleNo>MH20-8511</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="1925">
+      <ContractorName>अंकुश रूपा राठोड  (समर्थ)  </ContractorName>
+      <VehicleNo>MH20-3258</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="55">
+      <ContractorName>विक्रम सिताराम खरात (समर्थ)  </ContractorName>
+      <VehicleNo>MH20-6432</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="319">
+      <ContractorName>रखमाजी दगडु मुर्तरकर (समर्थ)  </ContractorName>
+      <VehicleNo>MH15-86</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2049">
+      <ContractorName>स.जावेद स.रज्जाक (समर्थ)  </ContractorName>
+      <VehicleNo>MH20-8788</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="124">
+      <ContractorName>विष्णु एकनाथ जाधव(समर्थ)  </ContractorName>
+      <VehicleNo>MH12-7925</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="49">
+      <ContractorName>विठ्ठल फुला चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH12-6800</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2226">
+      <ContractorName>विष्णु एकनाथ जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH12-153</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2227">
+      <ContractorName>बाळु पाराजी पानगे (समर्थ) </ContractorName>
+      <VehicleNo>MH04-6528</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2276">
+      <ContractorName>राजु बध्दु राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-6286</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2886">
+      <ContractorName>बाबासाहेब गणपत चव्हाण (समर्थ) </ContractorName>
+      <VehicleNo>MH04-4728</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2887">
+      <ContractorName>लक्ष्मण बाबुराव राठोड (समर्थ) </ContractorName>
+      <VehicleNo>MH14-9251</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2890">
+      <ContractorName>अर्जुन भिमराव मुळक (समर्थ) </ContractorName>
+      <VehicleNo>MH15-2100</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2892">
+      <ContractorName>पाशु उस्मान शेख  (समर्थ) </ContractorName>
+      <VehicleNo>MH12-9203</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2415">
+      <ContractorName>रविकिरण अच्युतराव चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH24-3448</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2968">
+      <ContractorName>इब्राहीम पाशामिया शेख (समर्थ) </ContractorName>
+      <VehicleNo>MH12-8979</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2974">
+      <ContractorName>राजु बालु राठोड (समर्थ) </ContractorName>
+      <VehicleNo>MH04-4272</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2994">
+      <ContractorName>भाऊसाहेब नारायण जाधव (समर्थ)    </ContractorName>
+      <VehicleNo>MH06-3465</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2997">
+      <ContractorName>सुरेश भिमराव चव्हाण (समर्थ) </ContractorName>
+      <VehicleNo>MH17-9432</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="3013">
+      <ContractorName>प्रदीप यदुजी पवार (समर्थ) </ContractorName>
+      <VehicleNo>MH18-1880</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="3296">
       <ContractorName>शे.अस्लम शे.मजीद (सागर ) </ContractorName>
       <VehicleNo>MH19-2167</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2930">
+      <ContractorName>गोवर्धन जोधी राठोड (समर्थ) </ContractorName>
+      <VehicleNo>MH12-4897</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="1096">
+      <ContractorName>बाळु पाराजी पानगे (समर्थ)  </ContractorName>
+      <VehicleNo>MH06-8366</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="993">
+      <ContractorName>रामेश्वर नागोराव गव्हाणे (समर्थ)  </ContractorName>
+      <VehicleNo>MH04-3901</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="94">
+      <ContractorName>नितीन आसाराम नवल (समर्थ)  </ContractorName>
+      <VehicleNo>MH12-3377</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="82">
+      <ContractorName>भगवान भिमा चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-8449</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="150">
+      <ContractorName>स.अकील स.नजीर (समर्थ)  </ContractorName>
+      <VehicleNo>MH20-5438</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2884">
+      <ContractorName>विश्वनाथ परसराम चव्हाण (समर्थ) </ContractorName>
+      <VehicleNo>MH18-7884</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="59">
+      <ContractorName>बंडु राधाजी पौळ (समर्थ) </ContractorName>
+      <VehicleNo>MH23-4732</VehicleNo>
+    </ContractorCode>
+  </VechicleType>
+  <VechicleType type="Tractor">
+    <ContractorCode Code="198">
+      <ContractorName>सुभाष प्रभु जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-2754</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="210">
+      <ContractorName>सुभाष लालसिंग जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-1022</VehicleNo>
+      <TrollyNoA>T210-1</TrollyNoA>
+      <TrollyNoB>T210-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="281">
+      <ContractorName>दिलीप श्रीमंतराव मचे (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-5542</VehicleNo>
+      <TrollyNoA>T281-1</TrollyNoA>
+      <TrollyNoB>T281-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="402">
+      <ContractorName>दिलीप श्रीमंत मचे (समर्थ) </ContractorName>
+      <VehicleNo>MH23-5542</VehicleNo>
+      <TrollyNoA>T402-1</TrollyNoA>
+      <TrollyNoB>T402-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="713">
+      <ContractorName>बन्सीधर भानुदास खिल्लारे (समर्थ)  </ContractorName>
+      <VehicleNo>MH25-3022</VehicleNo>
+      <TrollyNoA>T713-1</TrollyNoA>
+      <TrollyNoB>T713-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="789">
+      <ContractorName>गोपीनाथ ज्ञानदेव लहामगे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-3429</VehicleNo>
+      <TrollyNoA>T789-1</TrollyNoA>
+      <TrollyNoB>T789-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1495">
+      <ContractorName>शे. रसुल शे,नबी (सागर) </ContractorName>
+      <VehicleNo>MH21-9352</VehicleNo>
+      <TrollyNoA>T1495-1</TrollyNoA>
+      <TrollyNoB>T1495-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1501">
+      <ContractorName>रविंद्र बापुराव जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-2476</VehicleNo>
+      <TrollyNoA>T1501-1</TrollyNoA>
+      <TrollyNoB>T1501-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="841">
+      <ContractorName>विलास पंढरीनाथ येवले (सागर) </ContractorName>
+      <VehicleNo>MH21-4498</VehicleNo>
+      <TrollyNoA>T841-1</TrollyNoA>
+      <TrollyNoB>T841-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1268">
+      <ContractorName>सुरेश श्रीरंग पैठणे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-8984</VehicleNo>
+      <TrollyNoA>T1268-1</TrollyNoA>
+      <TrollyNoB>T1268-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="211">
+      <ContractorName>किसन दामोधर भोरे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-731</VehicleNo>
+      <TrollyNoA>T211-1</TrollyNoA>
+      <TrollyNoB>T211-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="265">
+      <ContractorName>प्रभाकर रामराव खरात (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-9018</VehicleNo>
+      <TrollyNoA>T265-1</TrollyNoA>
+      <TrollyNoB>T265-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1490">
+      <ContractorName>धर्मा रामधन चव्हाण (सागर)</ContractorName>
+      <VehicleNo>MH21-19</VehicleNo>
+      <TrollyNoA>T1490-1</TrollyNoA>
+      <TrollyNoB>T1490-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1496">
+      <ContractorName>अविनाश पाराजी ऊढाण (सागर) </ContractorName>
+      <VehicleNo>MH21-3418</VehicleNo>
+      <TrollyNoA>T1496-1</TrollyNoA>
+      <TrollyNoB>T1496-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1630">
+      <ContractorName>आसाराम गोवर्धन चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH44-2731</VehicleNo>
+      <TrollyNoA>T1630-1</TrollyNoA>
+      <TrollyNoB>T1630-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1634">
+      <ContractorName>प्रेमदास मोहन चव्हाण (सागर)  </ContractorName>
+      <VehicleNo>MH21-378</VehicleNo>
+      <TrollyNoA>T1634-1</TrollyNoA>
+      <TrollyNoB>T1634-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1637">
+      <ContractorName>गजानन रानुभाऊ वराडे (सागर) </ContractorName>
+      <VehicleNo>MH21-9049</VehicleNo>
+      <TrollyNoA>T1637-1</TrollyNoA>
+      <TrollyNoB>T1637-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1228">
+      <ContractorName>अर्जुन सोपान राठोड (सागर)  </ContractorName>
+      <VehicleNo>MH21-1769</VehicleNo>
+      <TrollyNoA>T1228-1</TrollyNoA>
+      <TrollyNoB>T1228-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1247">
+      <ContractorName>निखिल निवृती पैठणे (समर्थ) </ContractorName>
+      <VehicleNo>MH21-3840</VehicleNo>
+      <TrollyNoA>T1247-1</TrollyNoA>
+      <TrollyNoB>T1247-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1650">
+      <ContractorName>दत्तात्रय सुंदरराव उढाण (सागर)  </ContractorName>
+      <VehicleNo>MH21-2788</VehicleNo>
+      <TrollyNoA>T1650-1</TrollyNoA>
+      <TrollyNoB>T1650-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1721">
+      <ContractorName>बाबासाहेब दलसिंग चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-2843</VehicleNo>
+      <TrollyNoA>T1721-1</TrollyNoA>
+      <TrollyNoB>T1721-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1723">
+      <ContractorName>लहु रामभाऊ राठोड (समर्थ) </ContractorName>
+      <VehicleNo>MH23-197</VehicleNo>
+      <TrollyNoA>T1723-1</TrollyNoA>
+      <TrollyNoB>T1723-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1819">
+      <ContractorName>बद्रीनारायण कडाजी उढाण (सागर) </ContractorName>
+      <VehicleNo>MH21-3420</VehicleNo>
+      <TrollyNoA>T1819-1</TrollyNoA>
+      <TrollyNoB>T1819-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1891">
+      <ContractorName>माणिक गोपिनाथ चव्हाण (सागर) </ContractorName>
+      <VehicleNo>MH21-2593</VehicleNo>
+      <TrollyNoA>T1891-1</TrollyNoA>
+      <TrollyNoB>T1891-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1949">
+      <ContractorName>नारायण तात्याबा कोकाट (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-2542</VehicleNo>
+      <TrollyNoA>T1949-1</TrollyNoA>
+      <TrollyNoB>T1949-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1457">
+      <ContractorName>मोतीलाल आसाराम खरात (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-5674</VehicleNo>
+      <TrollyNoA>T1457-1</TrollyNoA>
+      <TrollyNoB>T1457-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2022">
+      <ContractorName>प्रभाकर रामराव खरात (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-2481</VehicleNo>
+      <TrollyNoA>T2022-1</TrollyNoA>
+      <TrollyNoB>T2022-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1913">
+      <ContractorName>पंडीत खेमा राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-6876</VehicleNo>
+      <TrollyNoA>T1913-1</TrollyNoA>
+      <TrollyNoB>T1913-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2139">
+      <ContractorName>बाबूराव दगडु चव्हाण (सागर) </ContractorName>
+      <VehicleNo>MH21-1953</VehicleNo>
+      <TrollyNoA>T2139-1</TrollyNoA>
+      <TrollyNoB>T2139-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2161">
+      <ContractorName>सोपान पाटिलबा राऊत (समर्थ) </ContractorName>
+      <VehicleNo>MH21-3924</VehicleNo>
+      <TrollyNoA>T2161-1</TrollyNoA>
+      <TrollyNoB>T2161-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1910">
+      <ContractorName>यादव सखाराम पवार (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-1673</VehicleNo>
+      <TrollyNoA>T1910-1</TrollyNoA>
+      <TrollyNoB>T1910-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2200">
+      <ContractorName>भागवत लक्ष्मण राक्षे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-1877</VehicleNo>
+      <TrollyNoA>T2200-1</TrollyNoA>
+      <TrollyNoB>T2200-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2207">
+      <ContractorName>शेख इसुफ शेख अमाजी (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-853</VehicleNo>
+      <TrollyNoA>T2207-1</TrollyNoA>
+      <TrollyNoB>T2207-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2220">
+      <ContractorName>बापुराव रामधन जाधव (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-3872</VehicleNo>
+      <TrollyNoA>T2220-1</TrollyNoA>
+      <TrollyNoB>T2220-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="217">
+      <ContractorName>सर्जेराव कुंडलिकराव ऊढाण (सागर)  </ContractorName>
+      <VehicleNo>MH21-758</VehicleNo>
+      <TrollyNoA>T217-1</TrollyNoA>
+      <TrollyNoB>T217-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1264">
+      <ContractorName>अंकुश नारायण ढवान (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-354</VehicleNo>
+      <TrollyNoA>T1264-1</TrollyNoA>
+      <TrollyNoB>T1264-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="208">
+      <ContractorName>रामेश्वर पांडुरंग राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-8716</VehicleNo>
+      <TrollyNoA>T208-1</TrollyNoA>
+      <TrollyNoB>T208-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="276">
+      <ContractorName>रामकृष्ण तात्याबा ढाकणे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-1867</VehicleNo>
+      <TrollyNoA>T276-1</TrollyNoA>
+      <TrollyNoB>T276-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="279">
+      <ContractorName>अर्जुन कठाळुसिंग परदेशी (सागर) </ContractorName>
+      <VehicleNo>MH21-9645</VehicleNo>
+      <TrollyNoA>T279-1</TrollyNoA>
+      <TrollyNoB>T279-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2223">
+      <ContractorName>दतात्रय सुंदर ऊढाण </ContractorName>
+      <VehicleNo>MH21-2788</VehicleNo>
+      <TrollyNoA>T2223-1</TrollyNoA>
+      <TrollyNoB>T2223-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="229">
+      <ContractorName>भोलाराम प्रताप राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-4556</VehicleNo>
+      <TrollyNoA>T229-1</TrollyNoA>
+      <TrollyNoB>T229-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="172">
+      <ContractorName>रोहीदास धन्नु चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-8216</VehicleNo>
+      <TrollyNoA>T172-1</TrollyNoA>
+      <TrollyNoB>T172-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2229">
+      <ContractorName>सखाराम तुळशिराम आदमाने  (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-4430</VehicleNo>
+      <TrollyNoA>T2229-1</TrollyNoA>
+      <TrollyNoB>T2229-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2230">
+      <ContractorName>रामहरी मारोती येवले (सागर) </ContractorName>
+      <VehicleNo>MH21-4039</VehicleNo>
+      <TrollyNoA>T2230-1</TrollyNoA>
+      <TrollyNoB>T2230-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1474">
+      <ContractorName>ज्ञानेश्वर सखाराम वैद्य (सागर) </ContractorName>
+      <VehicleNo>MH21-1138</VehicleNo>
+      <TrollyNoA>T1474-1</TrollyNoA>
+      <TrollyNoB>T1474-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2698">
+      <ContractorName>राजेंद्र देविदास आडे (सागर) </ContractorName>
+      <VehicleNo>MH21-D-2953</VehicleNo>
+      <TrollyNoA>T2698-1</TrollyNoA>
+      <TrollyNoB>T2698-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2718">
+      <ContractorName>लक्ष्मण सोपान राठोड (2) (सागर साठी) </ContractorName>
+      <VehicleNo>MH21-2485</VehicleNo>
+      <TrollyNoA>T2718-1</TrollyNoA>
+      <TrollyNoB>T2718-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2838">
+      <ContractorName>संजय गिताराम आढे (सागर) </ContractorName>
+      <VehicleNo>MH21-2697</VehicleNo>
+      <TrollyNoA>T2838-1</TrollyNoA>
+      <TrollyNoB>T2838-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2882">
+      <ContractorName>गणेश मोहन राठोड (समर्थ) </ContractorName>
+      <VehicleNo>MH.23-4798</VehicleNo>
+      <TrollyNoA>T2882-1</TrollyNoA>
+      <TrollyNoB>T2882-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2917">
+      <ContractorName>प्रभाकर रामभाऊ वाजे (सागर) </ContractorName>
+      <VehicleNo>MH21/3875</VehicleNo>
+      <TrollyNoA>T2917-1</TrollyNoA>
+      <TrollyNoB>T2917-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="171">
+      <ContractorName>शिवाजी हरीभाऊ खोले (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-8184</VehicleNo>
+      <TrollyNoA>T171-1</TrollyNoA>
+      <TrollyNoB>T171-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2935">
+      <ContractorName>हरीश्चंद्र लक्ष्मण माने (सागर) </ContractorName>
+      <VehicleNo>MH21-C-8274</VehicleNo>
+      <TrollyNoA>T2935-1</TrollyNoA>
+      <TrollyNoB>T2935-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2937">
+      <ContractorName>मगन गणपत चव्हाण (समर्थ) </ContractorName>
+      <VehicleNo>MH23-4494</VehicleNo>
+      <TrollyNoA>T2937-1</TrollyNoA>
+      <TrollyNoB>T2937-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2939">
+      <ContractorName>खुशाल धोडीराम चव्हाण(समर्थ) </ContractorName>
+      <VehicleNo>MH23-7897</VehicleNo>
+      <TrollyNoA>T2939-1</TrollyNoA>
+      <TrollyNoB>T2939-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2940">
+      <ContractorName>एकनाथ सुखदेव चव्हाण(समर्थ) </ContractorName>
+      <VehicleNo>MH23-9948</VehicleNo>
+      <TrollyNoA>T2940-1</TrollyNoA>
+      <TrollyNoB>T2940-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2941">
+      <ContractorName>राम धोडीराम चव्हाण(समर्थ) </ContractorName>
+      <VehicleNo>MH23-718</VehicleNo>
+      <TrollyNoA>T2941-1</TrollyNoA>
+      <TrollyNoB>T2941-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2944">
+      <ContractorName>आसाराम गोवर्धन चव्हाण(समर्थ) </ContractorName>
+      <VehicleNo>MH44-4615</VehicleNo>
+      <TrollyNoA>T2944-1</TrollyNoA>
+      <TrollyNoB>T2944-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2955">
+      <ContractorName>सोपान जेमा राठोड (सागर)</ContractorName>
+      <VehicleNo>MH21-2821</VehicleNo>
+      <TrollyNoA>T2955-1</TrollyNoA>
+      <TrollyNoB>T2955-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2981">
+      <ContractorName>रामेश्र्वर पांडुरंग राठोड (सागर) </ContractorName>
+      <VehicleNo>MH21-186</VehicleNo>
+      <TrollyNoA>T2981-1</TrollyNoA>
+      <TrollyNoB>T2981-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1473">
+      <ContractorName>राधेश्याम रामप्रसाद लाड (सागर) </ContractorName>
+      <VehicleNo>MH21-3394</VehicleNo>
+      <TrollyNoA>T1473-1</TrollyNoA>
+      <TrollyNoB>T1473-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2996">
+      <ContractorName>विष्णु बाबासाहेब वैद्य(समर्थ) </ContractorName>
+      <VehicleNo>MH21-537</VehicleNo>
+      <TrollyNoA>T2996-1</TrollyNoA>
+      <TrollyNoB>T2996-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="3022">
+      <ContractorName>गंगाधर बंडु दाने (समर्थ) </ContractorName>
+      <VehicleNo>MH20-3490</VehicleNo>
+      <TrollyNoA>T3022-1</TrollyNoA>
+      <TrollyNoB>T3022-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="786">
+      <ContractorName>भोलाराम प्रताप राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-3416</VehicleNo>
+      <TrollyNoA>T786-1</TrollyNoA>
+      <TrollyNoB>T786-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="183">
+      <ContractorName>सुनिल तात्यासाहेब ऊढाण(सागर) </ContractorName>
+      <VehicleNo>MH21-887</VehicleNo>
+      <TrollyNoA>T183-1</TrollyNoA>
+      <TrollyNoB>T183-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2162">
+      <ContractorName>भगवान बाळाजी जाधव (सागर) </ContractorName>
+      <VehicleNo>MH21-2731</VehicleNo>
+      <TrollyNoA>T2162-1</TrollyNoA>
+      <TrollyNoB>T2162-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="174">
+      <ContractorName>प्रताप मेहरबान राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-673</VehicleNo>
+      <TrollyNoA>T174-1</TrollyNoA>
+      <TrollyNoB>T174-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="242">
+      <ContractorName>सुंदर जनार्धन येळे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-2719</VehicleNo>
+      <TrollyNoA>T242-1</TrollyNoA>
+      <TrollyNoB>T242-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1150">
+      <ContractorName>गजानन राणुभाऊ वराडे (सागर) </ContractorName>
+      <VehicleNo>MH21-504</VehicleNo>
+      <TrollyNoA>T1150-1</TrollyNoA>
+      <TrollyNoB>T1150-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2431">
+      <ContractorName>शहादेव किसन सोनवणे (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-644</VehicleNo>
+      <TrollyNoA>T2431-1</TrollyNoA>
+      <TrollyNoB>T2431-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="223">
+      <ContractorName>भिमा थावरा चव्हाण </ContractorName>
+      <VehicleNo>MH23-4405</VehicleNo>
+      <TrollyNoA>T223-1</TrollyNoA>
+      <TrollyNoB>T223-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="222">
+      <ContractorName>बदाम गुलाबराव काळे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-5505</VehicleNo>
+      <TrollyNoA>T222-1</TrollyNoA>
+      <TrollyNoB>T222-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="233">
+      <ContractorName>जालिंदर भगवान भांगे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-995</VehicleNo>
+      <TrollyNoA>T233-1</TrollyNoA>
+      <TrollyNoB>T233-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="250">
+      <ContractorName>संतोष शिवाजी खोले (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-4180</VehicleNo>
+      <TrollyNoA>T250-1</TrollyNoA>
+      <TrollyNoB>T250-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="290">
+      <ContractorName>आत्माराम शेषराव पवार (सागर) </ContractorName>
+      <VehicleNo>MH21-3373</VehicleNo>
+      <TrollyNoA>T290-1</TrollyNoA>
+      <TrollyNoB>T290-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1163">
+      <ContractorName>भागवत लक्ष्मणराव राक्षे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-737</VehicleNo>
+      <TrollyNoA>T1163-1</TrollyNoA>
+      <TrollyNoB>T1163-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1249">
+      <ContractorName>शंकर बापुराव हरीचंद्रे (समर्थ)  </ContractorName>
+      <VehicleNo>MH21-32</VehicleNo>
+      <TrollyNoA>T1249-1</TrollyNoA>
+      <TrollyNoB>T1249-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1258">
+      <ContractorName>टोपा छाजु चव्हाण (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-1426</VehicleNo>
+      <TrollyNoA>T1258-1</TrollyNoA>
+      <TrollyNoB>T1258-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1758">
+      <ContractorName>सुभाष श्रीराम राठोड/सागर सह.</ContractorName>
+      <VehicleNo>MH21-18</VehicleNo>
+      <TrollyNoA>T1758-1</TrollyNoA>
+      <TrollyNoB>T1758-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1914">
+      <ContractorName>रोहीदास खेमा राठोड (समर्थ)  </ContractorName>
+      <VehicleNo>MH23-9523</VehicleNo>
+      <TrollyNoA>T1914-1</TrollyNoA>
+      <TrollyNoB>T1914-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="1996">
+      <ContractorName>अर्जुन तुकाराम कदम (समर्थ)  </ContractorName>
+      <VehicleNo>MH44-2041</VehicleNo>
+      <TrollyNoA>T1996-1</TrollyNoA>
+      <TrollyNoB>T1996-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2132">
+      <ContractorName>अमजदखाँ सत्तारखाँ पठाण (सागर) </ContractorName>
+      <VehicleNo>MH23-3289</VehicleNo>
+      <TrollyNoA>T2132-1</TrollyNoA>
+      <TrollyNoB>T2132-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2167">
+      <ContractorName>शिवाजी हरीचंद्र पवार (सागर) </ContractorName>
+      <VehicleNo>MH21-1896</VehicleNo>
+      <TrollyNoA>T2167-1</TrollyNoA>
+      <TrollyNoB>T2167-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2204">
+      <ContractorName>मन्सुरखाँ यासीनखाँ पठाण (सागर) </ContractorName>
+      <VehicleNo>MH21-3288</VehicleNo>
+      <TrollyNoA>T2204-1</TrollyNoA>
+      <TrollyNoB>T2204-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2799">
+      <ContractorName>बाबासाहेब किसन शिंदे (सागर) </ContractorName>
+      <VehicleNo>MH21-1513</VehicleNo>
+      <TrollyNoA>T2799-1</TrollyNoA>
+      <TrollyNoB>T2799-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2815">
+      <ContractorName>भास्कर तात्यासाहेब उढाण (सागर)</ContractorName>
+      <VehicleNo>MH21-3417</VehicleNo>
+      <TrollyNoA>T2815-1</TrollyNoA>
+      <TrollyNoB>T2815-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2932">
+      <ContractorName>सुंदर नारायण वरकड (समर्थ) </ContractorName>
+      <VehicleNo>MH20-3330</VehicleNo>
+      <TrollyNoA>T2932-1</TrollyNoA>
+      <TrollyNoB>T2932-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2934">
+      <ContractorName>अन्सरखाँ याशीनखाँ पठाण (सागर) </ContractorName>
+      <VehicleNo>MH23-D-8974  </VehicleNo>
+      <TrollyNoA>T2934-1</TrollyNoA>
+      <TrollyNoB>T2934-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2990">
+      <ContractorName>जनार्धन साळीकराम टापरे (सागर) </ContractorName>
+      <VehicleNo>MH21-4262</VehicleNo>
+      <TrollyNoA>T2990-1</TrollyNoA>
+      <TrollyNoB>T2990-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>

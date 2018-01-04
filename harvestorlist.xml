@@ -166,6 +166,12 @@
     <ContractorCode Code="7091">
       <ContractorName>सुधीर आसाराम नवल (सागर)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="7092">
+      <ContractorName>जगदिश आनंदरुप भुतडा ( मालक तोड )समर्थ यु नं 2</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7095">
+      <ContractorName>गणेश देविदास तेलकर (सागर)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="5256">
       <ContractorName>रामेश्वर गिताराम सजगणे (सागर) </ContractorName>
     </ContractorCode>
@@ -3965,7 +3971,7 @@
       <ContractorName>भारत किसन जाधव </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1">
-      <ContractorName>समर्थ सहकारी साखर का. (डोकी) (समर्थ) </ContractorName>
+      <ContractorName>समर्थ सहकारी साखर का. (डोकी) (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="36">
       <ContractorName>गणेश कचरु गरुड (समर्थ) </ContractorName>
@@ -7363,7 +7369,7 @@
       <ContractorName>आप्पासाहेब रतनराव तौर </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3957">
-      <ContractorName>करेमयोगी समर्थ सह.सा.कारखाना लि.तिर्थपुरी यु.नं.-2(सागर)</ContractorName>
+      <ContractorName>कर्मयोगी समर्थ सह.सा.कारखाना लि.तिर्थपुरी यु.नं.-2(सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3958">
       <ContractorName>रमेश रामभाऊ निचळ </ContractorName>
@@ -13126,7 +13132,7 @@
       <ContractorName>योगेश हरीभाऊ काळे (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="7024">
-      <ContractorName>राजेंद्र रामभाऊ भावले(समर्थ) </ContractorName>
+      <ContractorName>राजेंद्र रामभाऊ भावले(समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="7025">
       <ContractorName>लता राजु राठोड (समर्थ)</ContractorName>
@@ -15331,10 +15337,25 @@
       <ContractorName>रईस खमरखाँ पठाण (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6968">
-      <ContractorName>अ.रहीम अ.करीम बागवान (समर्थ) </ContractorName>
+      <ContractorName>अ.रहीम अ.करीम बागवान (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="7014">
       <ContractorName>सुमन शामराव दाणे(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7093">
+      <ContractorName>गजानन रोहीदास गिरी (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7094">
+      <ContractorName />
+    </ContractorCode>
+    <ContractorCode Code="7096">
+      <ContractorName>जगन तुकाराम मोरे(समर्ध)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7097">
+      <ContractorName>प्रभाकर शेषराव ढवळे (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7098">
+      <ContractorName>दिलीप रामचंद्र राठोड (सागर) </ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Doki">

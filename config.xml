@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <devices>
+  <imeicode imei="911442502381652">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/911442502381652.xml</url>
+    <version>1</version>
+    <rstart>15001</rstart>
+    <rend>18000</rend>
+  </imeicode>
   <imeicode imei="866343038211394">
     <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/866343038211394.xml</url>
     <version>1</version>
@@ -17,5 +23,11 @@
     <version>1</version>
     <rstart>68000</rstart>
     <rend>69000</rend>
+  </imeicode>
+  <imeicode imei="865241036472672">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/865241036472672.xml</url>
+    <version>1</version>
+    <rstart>11001</rstart>
+    <rend>13000</rend>
   </imeicode>
 </devices>

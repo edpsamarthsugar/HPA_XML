@@ -15357,6 +15357,9 @@
     <ContractorCode Code="7098">
       <ContractorName>दिलीप रामचंद्र राठोड (सागर) </ContractorName>
     </ContractorCode>
+    <ContractorCode Code="7099">
+      <ContractorName>राधेश्याम रामप्रसाद लाड (सागर)</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Doki">
     <ContractorCode Code="3071">

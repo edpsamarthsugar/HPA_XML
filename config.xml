@@ -6,11 +6,23 @@
     <rstart>15001</rstart>
     <rend>18000</rend>
   </imeicode>
+  <imeicode imei="868526024209533">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/868526024209533.xml</url>
+    <version>1</version>
+    <rstart>18001</rstart>
+    <rend>20000</rend>
+  </imeicode>
   <imeicode imei="866343038211394">
     <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/866343038211394.xml</url>
     <version>1</version>
     <rstart>10000</rstart>
     <rend>10500</rend>
+  </imeicode>
+  <imeicode imei="356273079100767">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/356273079100767.xml</url>
+    <version>1</version>
+    <rstart>21000</rstart>
+    <rend>25000</rend>
   </imeicode>
   <imeicode imei="862738031738893">
     <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/862738031738893.xml</url>

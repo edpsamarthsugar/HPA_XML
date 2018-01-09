@@ -2036,7 +2036,7 @@
       <ContractorName>रामा किसनराव शिंदे (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="5975">
-      <ContractorName>मच्छिंद्र होना राठोड </ContractorName>
+      <ContractorName>मच्छिंद्र होना राठोड</ContractorName>
     </ContractorCode>
     <ContractorCode Code="5976">
       <ContractorName>शेख ईस्माईल शैख हबीब (समर्थ) </ContractorName>
@@ -11758,7 +11758,7 @@
       <ContractorName>श्रीमंत नेमाजी गाढे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6222">
-      <ContractorName>संतोष विक्रम खरात (समर्थ) </ContractorName>
+      <ContractorName>संतोष विक्रम खरात (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6223">
       <ContractorName>बद्रीनाथ शिवाजी काळे (समर्थ) </ContractorName>
@@ -13162,7 +13162,7 @@
       <ContractorName>सहदेव देवीदास शेरे (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2">
-      <ContractorName>समर्थ सहकारी साखर का. (समर्थ) </ContractorName>
+      <ContractorName>समर्थ सहकारी साखर का. (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="5">
       <ContractorName>अशोक गंगाधर दाने (समर्थ) </ContractorName>
@@ -14248,7 +14248,7 @@
       <ContractorName>गजानन कांताराम भोसले </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3735">
-      <ContractorName>वैजीनाथ निवृतीे जुळे (समर्थ) </ContractorName>
+      <ContractorName>वैजीनाथ निवृतीे जुळे (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3738">
       <ContractorName>सुंदर जनार्धन येळे (समर्थ) </ContractorName>
@@ -15359,6 +15359,9 @@
     </ContractorCode>
     <ContractorCode Code="7099">
       <ContractorName>राधेश्याम रामप्रसाद लाड (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7100">
+      <ContractorName>सुनील पंडीत राठोड (समर्थ )</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Doki">

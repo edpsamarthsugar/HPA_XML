@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <devices>
+  <imeicode imei="353490069682595">
+    <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/865640038985856.xml</url>
+    <version>1</version>
+    <rstart>15001</rstart>
+    <rend>18000</rend>
+  </imeicode>
   <imeicode imei="865640038985856">
     <url>https://raw.githubusercontent.com/edpsamarthsugar/HPA_XML/master/865640038985856.xml</url>
     <version>1</version>

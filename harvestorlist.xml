@@ -1,11 +1,86 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="6363">
-      <ContractorName>राजेंद्र दगडुबा गाडेकर(सागर मा.तोड) </ContractorName>
+    <ContractorCode Code="7121">
+      <ContractorName>राजाराम पुंजाराम चव्हाण (सागर-bgs)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="6374">
-      <ContractorName>सतीष जगन्नाथ भोसले (सागर) </ContractorName>
+    <ContractorCode Code="7124">
+      <ContractorName>राजेंद्र गंगाराम दाभाडे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7125">
+      <ContractorName>राजाभाऊ मारोती राठोड (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7127">
+      <ContractorName>भगवान राघु वाव्हुळे (सागर-मा.तो.)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7129">
+      <ContractorName>विठ्ठल उत्तम राठोड (सागर).</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7131">
+      <ContractorName>सुमित सुकांत कोरे (समर्थ )</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7132">
+      <ContractorName>श्रीकांत भामंडल कोरे(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7133">
+      <ContractorName>वामन प्रभु पवार(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7134">
+      <ContractorName>शिवाजी काशीनाथ राठोड(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7135">
+      <ContractorName>निवास ज्ञानोबा येवले (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7136">
+      <ContractorName>शम्मु इब्राहिम शेख (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7138">
+      <ContractorName>सुभाष भारत भोजणे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7140">
+      <ContractorName>भुजंग भगवान वायसे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7141">
+      <ContractorName>मंजाराम गणपत काळे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7142">
+      <ContractorName>मंजाराम गणपत काळे-2 (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7147">
+      <ContractorName>कैलास ज्ञानोबा पवार(सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7148">
+      <ContractorName>सुधिर अरुण काकडे (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7151">
+      <ContractorName>दादमियॉ वजीर शेख (सागर-BGS)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7152">
+      <ContractorName>राजेंद्र विठ्ठलराव शिंदे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7153">
+      <ContractorName>राजेंद्र विठ्ठलराव शिंदे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="5638">
+      <ContractorName>सुभाष प्रभु चव्हाण (BGS-सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7154">
+      <ContractorName>हरीभाऊ नामदेव पवार (BGS-सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7157">
+      <ContractorName>कृष्णा रामदास शिंदे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7158">
+      <ContractorName>कृष्णा रामदास शिंदे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7161">
+      <ContractorName>भरत सोपान घोगरे (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7163">
+      <ContractorName>पाशाखॉ बिबनखॉ पठाण (सागर) </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7165">
+      <ContractorName>गणेश बाबुराव चव्हाण (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6384">
       <ContractorName>तिर्थराज रावसाहेब कोकरे </ContractorName>
@@ -95,7 +170,7 @@
       <ContractorName>रामप्रसाद सुखदेव पिसाळ (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6810">
-      <ContractorName>संपत बालु पवार(सागर) </ContractorName>
+      <ContractorName>संपत बालु पवार(सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6830">
       <ContractorName>परमेश्वर रामभाऊ चौगुले  सागर </ContractorName>
@@ -178,11 +253,26 @@
     <ContractorCode Code="7104">
       <ContractorName>बळीराम लक्ष्मण शेळके (सागर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="5244">
-      <ContractorName>रामेश्वर गोविंदराव केकान सागर  </ContractorName>
+    <ContractorCode Code="7112">
+      <ContractorName>कमलाकर कृष्णा पडवळे(समर्थ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="5256">
-      <ContractorName>रामेश्वर गिताराम सजगणे (सागर) </ContractorName>
+    <ContractorCode Code="7113">
+      <ContractorName>ज्ञानेश्वर मोहन राठोड (सागर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7116">
+      <ContractorName>अशोक विष्णु तायडे (सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7117">
+      <ContractorName>अशोक ज्ञानोबा आबुज (सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7118">
+      <ContractorName>दत्ता आत्माराम माने (सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7119">
+      <ContractorName>संजय मंजुराव वायाळ(सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7120">
+      <ContractorName>आप्पासाहेब रंजीतराव ढवळे(सागर-bgs)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="5264">
       <ContractorName>लहु लिंबा राठोड (बि.अॅड.) (सागर) </ContractorName>
@@ -224,7 +314,7 @@
       <ContractorName>बालासाहेब भुंजगराव काळे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="5640">
-      <ContractorName>कृष्णा भाऊराव राठोड </ContractorName>
+      <ContractorName>कृष्णा भाऊराव राठोड (BGS-सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="5644">
       <ContractorName>अंबादास मारोती खोटे (सागर)दोन चाकी ट्रेलर </ContractorName>
@@ -370,11 +460,11 @@
     <ContractorCode Code="6359">
       <ContractorName>शिवाजी महादेव बहीर (मा.तोड) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3782">
-      <ContractorName>सोमनाथ सुधाकरराव आवघड (सागर) </ContractorName>
+    <ContractorCode Code="6363">
+      <ContractorName>राजेंद्र दगडुबा गाडेकर(सागर मा.तोड) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3788">
-      <ContractorName>द्वारका रमेश आढळकर(सागर) </ContractorName>
+    <ContractorCode Code="6374">
+      <ContractorName>सतीष जगन्नाथ भोसले (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3789">
       <ContractorName>लक्ष्मन सोपान राठोड (सागर) </ContractorName>
@@ -562,11 +652,11 @@
     <ContractorCode Code="5229">
       <ContractorName>राजेभाऊ बबनराव टेहळे सागर  </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3">
-      <ContractorName>स्वत: . . </ContractorName>
+    <ContractorCode Code="5244">
+      <ContractorName>रामेश्वर गोविंदराव केकान सागर  </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="39">
-      <ContractorName>मनोहर आश्रुबा आनपड (समर्थ) </ContractorName>
+    <ContractorCode Code="5256">
+      <ContractorName>रामेश्वर गिताराम सजगणे (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="50">
       <ContractorName>विठठल गोपिनाथ बहीरवाल (समर्थ) </ContractorName>
@@ -754,11 +844,11 @@
     <ContractorCode Code="3731">
       <ContractorName>दुरेश सुर्यभान यादव </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="6736">
-      <ContractorName>गणेश सर्जेराव शिंदे </ContractorName>
+    <ContractorCode Code="3782">
+      <ContractorName>सोमनाथ सुधाकरराव आवघड (सागर) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="6737">
-      <ContractorName>करीम इस्माईल शेख (समर्थ) </ContractorName>
+    <ContractorCode Code="3788">
+      <ContractorName>द्वारका रमेश आढळकर(सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6738">
       <ContractorName>देवराव रामभाऊ शिंदे (समर्थ) </ContractorName>
@@ -946,8 +1036,11 @@
     <ContractorCode Code="7032">
       <ContractorName>मारुती अशोक मोरे (समर्थ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="6582">
-      <ContractorName>आशोक उत्तमराव गायकवाड(सागर मा.तो) </ContractorName>
+    <ContractorCode Code="3">
+      <ContractorName>स्वत: . . </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="39">
+      <ContractorName>मनोहर आश्रुबा आनपड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6583">
       <ContractorName>गणेश दत्तात्र्य देशमुख  </ContractorName>
@@ -1066,9 +1159,6 @@
     <ContractorCode Code="4631">
       <ContractorName>हासीना नजीर बागवान (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="5638">
-      <ContractorName>सुभाष प्रभु चव्हाण </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="5105">
       <ContractorName>धर्मा रामधन चव्हाण (सागर) </ContractorName>
     </ContractorCode>
@@ -1138,6 +1228,12 @@
     <ContractorCode Code="6735">
       <ContractorName>राजेंद्र निवृती शिंदे (समर्थ) </ContractorName>
     </ContractorCode>
+    <ContractorCode Code="6736">
+      <ContractorName>गणेश सर्जेराव शिंदे </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="6737">
+      <ContractorName>करीम इस्माईल शेख (समर्थ) </ContractorName>
+    </ContractorCode>
     <ContractorCode Code="6402">
       <ContractorName>बबन रावसाहेब महारनोर (समर्थ) </ContractorName>
     </ContractorCode>
@@ -1188,9 +1284,6 @@
     </ContractorCode>
     <ContractorCode Code="6457">
       <ContractorName>राजेभाऊ लक्ष्मण लोखंडे (सागर) </ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="433">
-      <ContractorName>शहादेव निवृती पानखडे (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6459">
       <ContractorName>बालासाहेब देविदास सावंत(सागर) </ContractorName>
@@ -1274,7 +1367,7 @@
       <ContractorName>विनोद नामदेव राठोड(सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6530">
-      <ContractorName>विलास गुलाब पवार (सागर) </ContractorName>
+      <ContractorName>विलास गुलाब पवार (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6536">
       <ContractorName>पवन विठठल पवार (सागर) </ContractorName>
@@ -1329,6 +1422,9 @@
     </ContractorCode>
     <ContractorCode Code="6577">
       <ContractorName>दौलत आश्रुबा दाभाडे (समर्थ) </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="6582">
+      <ContractorName>आशोक उत्तमराव गायकवाड(सागर मा.तो) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="5699">
       <ContractorName>मोजोदिन इसाक शेख (सागर) </ContractorName>
@@ -2075,7 +2171,7 @@
       <ContractorName>शे. शामिर शे. जाफर </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6006">
-      <ContractorName>सुभाष रामभाऊ शिंदे (सागर) </ContractorName>
+      <ContractorName>सुभाष रामभाऊ शिंदे (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6011">
       <ContractorName>ज्ञानदेव भिमराव दाताळ(समर्थ) </ContractorName>
@@ -2866,6 +2962,9 @@
     <ContractorCode Code="4902">
       <ContractorName>ज्ञानोबा गणा चव्हाण </ContractorName>
     </ContractorCode>
+    <ContractorCode Code="4548">
+      <ContractorName>गोविद मारोतराव लिपने </ContractorName>
+    </ContractorCode>
     <ContractorCode Code="4549">
       <ContractorName>लक्ष्मण गोपीनाथ काटे (समर्थ) </ContractorName>
     </ContractorCode>
@@ -2983,9 +3082,6 @@
     <ContractorCode Code="4617">
       <ContractorName>रामदास नारायण सव्वाशे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="4621">
-      <ContractorName>आनंत महादेव देवकर (समर्थ) </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="4622">
       <ContractorName>सोमनाथ विठ्ठलराव आधटराव (समर्थ) </ContractorName>
     </ContractorCode>
@@ -3057,6 +3153,9 @@
     </ContractorCode>
     <ContractorCode Code="4689">
       <ContractorName>आकाश पोपट काळे </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="4284">
+      <ContractorName>अशोक आत्माराम सुरवसे (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4285">
       <ContractorName>देवराव ऱामभाऊ शिंदे </ContractorName>
@@ -3247,8 +3346,8 @@
     <ContractorCode Code="4547">
       <ContractorName>ऊतम आसाराम पवार </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="4548">
-      <ContractorName>गोविद मारोतराव लिपने </ContractorName>
+    <ContractorCode Code="3842">
+      <ContractorName>सुरेश सुदाम राठोड (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3847">
       <ContractorName>नारायण निवृती खरात (समर्थ) </ContractorName>
@@ -3439,9 +3538,6 @@
     <ContractorCode Code="4283">
       <ContractorName>रमेश राधाकिसन जाधव (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="4284">
-      <ContractorName>अशोक आत्माराम सुरवसे (समर्थ) </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="160">
       <ContractorName>अर्जुन सोमनाथ राठोड </ContractorName>
     </ContractorCode>
@@ -3483,6 +3579,9 @@
     </ContractorCode>
     <ContractorCode Code="3585">
       <ContractorName>बप्पासाहेब दादासाहेब डावकर (समर्थ) </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="3587">
+      <ContractorName>अशोक नामदेव देशमुख (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3594">
       <ContractorName>महादेव विश्वनाथ फलके (समर्थ) </ContractorName>
@@ -3630,9 +3729,6 @@
     </ContractorCode>
     <ContractorCode Code="3836">
       <ContractorName>जालींदर तुळशिराम आदमाने </ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="3842">
-      <ContractorName>सुरेश सुदाम राठोड (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="734">
       <ContractorName>छगण जिजाबा सानप (समर्थ) </ContractorName>
@@ -4735,7 +4831,7 @@
       <ContractorName>नामदेव धारु राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="10">
-      <ContractorName>लक्ष्मण प्रताप राठोड (समर्थ) </ContractorName>
+      <ContractorName>लक्ष्मण प्रताप राठोड (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="14">
       <ContractorName>प्रल्हाद दगडु जाधव (समर्थ) </ContractorName>
@@ -5636,6 +5732,9 @@
     </ContractorCode>
     <ContractorCode Code="1660">
       <ContractorName>सोनाजी किसन टेकाळे </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="1700">
+      <ContractorName>मिराबाई नवनाथ नांद्रे</ContractorName>
     </ContractorCode>
     <ContractorCode Code="1701">
       <ContractorName>बाबासाहेब आबासाहेब गावडे </ContractorName>
@@ -6726,9 +6825,6 @@
     <ContractorCode Code="3586">
       <ContractorName>बाबुराव छगन राठोड </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3587">
-      <ContractorName>अशोक नामदेव देशमुख (सागर) </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="3588">
       <ContractorName>गणेश धोडीराम राठोड (समर्थ) </ContractorName>
     </ContractorCode>
@@ -7057,7 +7153,7 @@
       <ContractorName>परसराम पिका राठोड (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3803">
-      <ContractorName>जनार्धन शिवदास राठोड (समर्थ) </ContractorName>
+      <ContractorName>जनार्धन शिवदास राठोड (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3805">
       <ContractorName>आनिल काकासाहेब खरात(सागर) </ContractorName>
@@ -7867,7 +7963,7 @@
       <ContractorName>कैलास रावसाहेब राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4210">
-      <ContractorName>रोहीदास गोवर्धन राठोड (समर्थ) </ContractorName>
+      <ContractorName>रोहीदास गोवर्धन राठोड (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4213">
       <ContractorName>संतोष आसाराम येवले (समर्थ) </ContractorName>
@@ -7999,7 +8095,7 @@
       <ContractorName>अशोक भानुदास बटुळे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4294">
-      <ContractorName>बद्रीनारायण आश्राजी गवारे </ContractorName>
+      <ContractorName>बद्रीनारायण आश्राजी गवारे(समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4204">
       <ContractorName>मच्छींद्र होना राठोड (समर्थ) </ContractorName>
@@ -8065,7 +8161,7 @@
       <ContractorName>बबन कारभारी घुगे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4323">
-      <ContractorName>पंकज जगन्नाथ पवार (समर्थ) </ContractorName>
+      <ContractorName>पंकज जगन्नाथ पवार (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4324">
       <ContractorName>त्रिंबक भानुदास पठाडे </ContractorName>
@@ -8407,7 +8503,7 @@
       <ContractorName>दिलीप रोहीदास राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4474">
-      <ContractorName>बाबु धारू जाधव (समर्थ) </ContractorName>
+      <ContractorName>बाबु धारू जाधव (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4475">
       <ContractorName>शे.नजीर. शे.नबी . </ContractorName>
@@ -8458,7 +8554,7 @@
       <ContractorName>संभाजी मनोहर शेबडे (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4497">
-      <ContractorName>खिजरमियाँ मुन्सीमियाँ (समर्थ) </ContractorName>
+      <ContractorName>खिजरमियाँ मुन्सीमियाँ (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4499">
       <ContractorName>स.अतिक स.रज्जाक (समर्थ) </ContractorName>
@@ -8579,6 +8675,9 @@
     </ContractorCode>
     <ContractorCode Code="4618">
       <ContractorName>शे.मजीद शे.फत्तु </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="4621">
+      <ContractorName>आनंत महादेव देवकर (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4627">
       <ContractorName>संतोष जगन्नाथ थोरात (समर्थ) </ContractorName>
@@ -9991,7 +10090,7 @@
       <ContractorName>धरमसींग बाबु राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4222">
-      <ContractorName>प्रदिप यदुजी पवार (समर्थ) </ContractorName>
+      <ContractorName>प्रदिप यदुजी पवार (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4226">
       <ContractorName>राम बध्दु जाधव (समर्थ) </ContractorName>
@@ -10504,7 +10603,7 @@
       <ContractorName>तुळशिराम शहादेव शिंगाडे (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="5652">
-      <ContractorName>संभाजी राधाकीसन धुमक(सागर) </ContractorName>
+      <ContractorName>संभाजी राधाकीसन धुमक(सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="5658">
       <ContractorName>ज्ञानेश्वर पांडुरंग राठोड (सागर) </ContractorName>
@@ -12039,8 +12138,11 @@
     <ContractorCode Code="6456">
       <ContractorName>सोपान पाटीलबा राऊत (सागर) </ContractorName>
     </ContractorCode>
+    <ContractorCode Code="433">
+      <ContractorName>शहादेव निवृती पानखडे (समर्थ)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="6458">
-      <ContractorName>रामेश्वर दिलीप पानखडे (समर्थ) </ContractorName>
+      <ContractorName>रामेश्वर दिलीप पानखडे (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6461">
       <ContractorName>आबासाहेब सिताराम गाडेकर (मा.तोड) </ContractorName>
@@ -12172,7 +12274,7 @@
       <ContractorName>पाटीलबा मारोती कोकाट </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6543">
-      <ContractorName>संदीपान गणपतराव खळगे (हार्वेस्टर-सागर) </ContractorName>
+      <ContractorName>संदीपान गणपतराव खळगे (हार्वेस्टर-सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6544">
       <ContractorName>भगवान देविदास जाधव(सागर) </ContractorName>
@@ -12715,7 +12817,7 @@
       <ContractorName>संतोष सावजी चव्हाण (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="6845">
-      <ContractorName>सौ.सुषमा भाऊसाहेब सातपुते (सागर-हार्वेस्टर) </ContractorName>
+      <ContractorName>सुषमा भाऊसाहेब सातपुते (सागर-हार्वेस्टर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="6846">
       <ContractorName>अनिल शिवाजी मुळे </ContractorName>
@@ -13126,7 +13228,7 @@
       <ContractorName>श्रीकांत जगन्नाथ पवार (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="7021">
-      <ContractorName>दिनकर देवीदास शेरे (सागर) </ContractorName>
+      <ContractorName>दिनकर देवीदास शेरे (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="7022">
       <ContractorName>संजय नवनाथ जाधव (समर्थ) </ContractorName>
@@ -13162,7 +13264,7 @@
       <ContractorName>शे.इब्राहीम शे.गफुर (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="7034">
-      <ContractorName>सहदेव देवीदास शेरे (सागर) </ContractorName>
+      <ContractorName>सहदेव देवीदास शेरे (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="2">
       <ContractorName>समर्थ सहकारी साखर का. (समर्थ)</ContractorName>
@@ -13318,7 +13420,7 @@
       <ContractorName>रामेश्वर पांडुरंग राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="212">
-      <ContractorName>अर्जुन बालु राठोड (समर्थ) </ContractorName>
+      <ContractorName>अर्जुन बालु राठोड (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="213">
       <ContractorName>संगिता सुभाष राठोड (समर्थ) </ContractorName>
@@ -13492,7 +13594,7 @@
       <ContractorName>भानुदास खंडु राठोड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="422">
-      <ContractorName>भिमा लालु चव्हाण (सागर) </ContractorName>
+      <ContractorName>भिमा लालु चव्हाण (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="424">
       <ContractorName>विष्णु नाथा बडे </ContractorName>
@@ -14134,7 +14236,7 @@
       <ContractorName>कूष्णा देवीदास चव्हान (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3540">
-      <ContractorName>सय्यद फयुम सय्यद निसार (समर्थ) </ContractorName>
+      <ContractorName>स.फयुम स.निसार (समर्थ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="3542">
       <ContractorName>पुंडलीक गंगाधर दाने (समर्थ) </ContractorName>
@@ -14488,7 +14590,7 @@
       <ContractorName>मिराबाई भानुदास राठोड (सागर) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4134">
-      <ContractorName>काशिनाथ श्रीराम राठोड(सागर) </ContractorName>
+      <ContractorName>काशिनाथ श्रीराम राठोड(सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4142">
       <ContractorName>निवृती उत्तम चकान </ContractorName>
@@ -14542,7 +14644,7 @@
       <ContractorName>धर्मा ऊतम जाधव (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="4487">
-      <ContractorName>बाबुराव दगडु चव्हाण (सागर) </ContractorName>
+      <ContractorName>बाबुराव दगडु चव्हाण (सागर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="4495">
       <ContractorName>सर्जेराव कुंडलीक ऊढाण (सागर) </ContractorName>
@@ -15393,11 +15495,68 @@
     <ContractorCode Code="7110">
       <ContractorName>ज्ञानेश्वर तुकाराम जाधव (समर्थ)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="7111">
+      <ContractorName>दत्तात्रय बाबुराव धस(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7114">
+      <ContractorName>शे.खजीरमियॉ शे.मुन्शीमायॉ (सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7115">
+      <ContractorName>सय्यद फय्युम सय्यद निसार (सागर-bgs)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7122">
+      <ContractorName>बंडु जनार्धन येळे (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7123">
+      <ContractorName>जिजा पंडीतराव लेभे(समर्थ) </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7126">
+      <ContractorName>चत्रभुज धोंडीराम शेटे(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7128">
+      <ContractorName>रामेश्वर संपत भागवत(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7130">
+      <ContractorName>ज्ञानदेव तुळशीराम नागरे</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7137">
+      <ContractorName>बाबु मुसा सय्यद (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7139">
+      <ContractorName>शुभांगी संजय खरात (सागर-हार्वेस्टर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7143">
+      <ContractorName>गणेश विजय सर्जे (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7144">
+      <ContractorName>संजय उत्तम सुरासे(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7145">
+      <ContractorName>गणेश विजयराव सर्जे</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7146">
+      <ContractorName>कौतीक सर्जेराव जाधव </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7149">
+      <ContractorName>सागर स्नेहकांत कोटेचा (समर्थ हार्वेस्टर )</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7150">
+      <ContractorName>सुभाष बाबु चव्हाण (समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7155">
+      <ContractorName>चंदन गोविंद खले</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7156">
+      <ContractorName>भागाबाई तुळशिराम जाधव</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7159">
+      <ContractorName>विनोद गोपाल तार्डे(समर्थ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7160">
+      <ContractorName>अरुण गोपाल तार्डे(समर्थ)</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Doki">
-    <ContractorCode Code="3071">
-      <ContractorName>काकासाहेब पंडीतराव जह्राड (समर्थ) </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="3072">
       <ContractorName>मदनलाल पन्नालाल लाहोटी </ContractorName>
     </ContractorCode>
@@ -15449,8 +15608,14 @@
     <ContractorCode Code="5763">
       <ContractorName>प्रकाश लक्ष्मण वाघमारे (सागर) मा.तोड </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2867">
-      <ContractorName>मंहमद ईमाम पठाण </ContractorName>
+    <ContractorCode Code="7164">
+      <ContractorName>अशोक भगवान गाड</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7166">
+      <ContractorName>शे ताज अहेमद याकुब अन्सारी</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="7167">
+      <ContractorName>रामेश्वर सुभाषराव आमटे</ContractorName>
     </ContractorCode>
     <ContractorCode Code="2868">
       <ContractorName>एकनाथ बाबुराव काळे (समर्थ) </ContractorName>
@@ -15641,8 +15806,8 @@
     <ContractorCode Code="3066">
       <ContractorName>भगवान कचरू वाघ </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2649">
-      <ContractorName>काशिनाथ माणिकराव उगले </ContractorName>
+    <ContractorCode Code="3071">
+      <ContractorName>काकासाहेब पंडीतराव जह्राड (समर्थ) </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2656">
       <ContractorName>रामेश्वर सखाराम दोबाले </ContractorName>
@@ -15833,8 +15998,8 @@
     <ContractorCode Code="2864">
       <ContractorName>कोराम काशिनाथ कनके </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2171">
-      <ContractorName>भिमराव रामकिसन बुडगे </ContractorName>
+    <ContractorCode Code="2867">
+      <ContractorName>मंहमद ईमाम पठाण </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2174">
       <ContractorName>कुशिवर्ता सर्जेराव गायकवाड </ContractorName>
@@ -16025,8 +16190,8 @@
     <ContractorCode Code="2642">
       <ContractorName>महादेव मनोहर ढेंगळे (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1934">
-      <ContractorName>दिलीप गणपतराव सोंडगे </ContractorName>
+    <ContractorCode Code="2649">
+      <ContractorName>काशिनाथ माणिकराव उगले </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1935">
       <ContractorName>विश्वनाथ आश्राजी मस्के </ContractorName>
@@ -16217,8 +16382,8 @@
     <ContractorCode Code="2167">
       <ContractorName>सुमनबाई तुकाराम पेनक (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1724">
-      <ContractorName>गहीनीनाथ धुराजी भिंगारे </ContractorName>
+    <ContractorCode Code="2171">
+      <ContractorName>भिमराव रामकिसन बुडगे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1725">
       <ContractorName>पांडुरंग रंगनाथ वाघुंडे </ContractorName>
@@ -16409,8 +16574,8 @@
     <ContractorCode Code="1933">
       <ContractorName>सुनिल सुभाष उबाळे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1526">
-      <ContractorName>बाबुराव काशिनाथ औताडे </ContractorName>
+    <ContractorCode Code="1934">
+      <ContractorName>दिलीप गणपतराव सोंडगे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1531">
       <ContractorName>अनिल सखाराम खाडे </ContractorName>
@@ -16601,8 +16766,8 @@
     <ContractorCode Code="1723">
       <ContractorName>पांडुरंग बाळाजी शेळके </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1054">
-      <ContractorName>उध्दव ज्ञानोबा आनंदे </ContractorName>
+    <ContractorCode Code="1724">
+      <ContractorName>गहीनीनाथ धुराजी भिंगारे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1061">
       <ContractorName>मच्न्द्रि ममताजी गडदे </ContractorName>
@@ -16793,8 +16958,8 @@
     <ContractorCode Code="1524">
       <ContractorName>पांडुरंग बापुराव वाघुंडे (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1412">
-      <ContractorName>रमेश नानासाहेब कवडे </ContractorName>
+    <ContractorCode Code="1526">
+      <ContractorName>बाबुराव काशिनाथ औताडे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1520">
       <ContractorName>विष्णु नागोराव भवर </ContractorName>
@@ -16985,8 +17150,8 @@
     <ContractorCode Code="1052">
       <ContractorName>राधाकिसन येडुबा सावंत </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1884">
-      <ContractorName>अंकुश धर्मा पवार </ContractorName>
+    <ContractorCode Code="1054">
+      <ContractorName>उध्दव ज्ञानोबा आनंदे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1896">
       <ContractorName>गंगाधर धोंडीबा तौर (समर्थ) </ContractorName>
@@ -17177,8 +17342,8 @@
     <ContractorCode Code="1230">
       <ContractorName>आप्पा रामभाऊ साखरे (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2237">
-      <ContractorName>अशोक अबाजी मडके </ContractorName>
+    <ContractorCode Code="1412">
+      <ContractorName>रमेश नानासाहेब कवडे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2239">
       <ContractorName>रामदास दुर्गाजी कुरणकर </ContractorName>
@@ -17369,8 +17534,8 @@
     <ContractorCode Code="1860">
       <ContractorName>महादु यदा तांदळे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3161">
-      <ContractorName>रंगनाथ किसन देखणे </ContractorName>
+    <ContractorCode Code="1884">
+      <ContractorName>अंकुश धर्मा पवार </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3163">
       <ContractorName>परमेश्वर ज्ञानदेव काळे (समर्थ) </ContractorName>
@@ -17561,8 +17726,8 @@
     <ContractorCode Code="2234">
       <ContractorName>बाबुराव रामसींग नाईक </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2368">
-      <ContractorName>अनिरुध्द मंजाबा काळे </ContractorName>
+    <ContractorCode Code="2237">
+      <ContractorName>अशोक अबाजी मडके </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2369">
       <ContractorName>शे.रुबाबी शे.ईनायत </ContractorName>
@@ -17753,8 +17918,8 @@
     <ContractorCode Code="3158">
       <ContractorName>रामसिंग काशिनाथ राठोड </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3413">
-      <ContractorName>विजयकुमार सोपानराव दैठणकर </ContractorName>
+    <ContractorCode Code="3161">
+      <ContractorName>रंगनाथ किसन देखणे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3415">
       <ContractorName>संदीपान दादासाहेब ऊडदंगे </ContractorName>
@@ -17945,8 +18110,8 @@
     <ContractorCode Code="2363">
       <ContractorName>गोरखनाथ पंढरीनाथ तुपे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3285">
-      <ContractorName>खंडु तुकाराम तळपे </ContractorName>
+    <ContractorCode Code="2368">
+      <ContractorName>अनिरुध्द मंजाबा काळे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3288">
       <ContractorName>द्वारकाबाई देविदास तौर </ContractorName>
@@ -18137,8 +18302,8 @@
     <ContractorCode Code="3410">
       <ContractorName>त्रिंबक रामभाऊ मोरे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3152">
-      <ContractorName>प्रल्हाद सखाराम ढवळे </ContractorName>
+    <ContractorCode Code="3413">
+      <ContractorName>विजयकुमार सोपानराव दैठणकर </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3155">
       <ContractorName>भगिरथ पाटिलसाहेब ढेरे </ContractorName>
@@ -18329,8 +18494,8 @@
     <ContractorCode Code="3284">
       <ContractorName>आगाखाँ नन्हेखाँन पठाण </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="3029">
-      <ContractorName>नारायण रखमाजी खोजे </ContractorName>
+    <ContractorCode Code="3285">
+      <ContractorName>खंडु तुकाराम तळपे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="3033">
       <ContractorName>प्रल्हाद बाबासाहेब जाधव </ContractorName>
@@ -18521,8 +18686,8 @@
     <ContractorCode Code="3151">
       <ContractorName>भागवत वामनराव उडदंगे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2910">
-      <ContractorName>बादलसिंग भाऊसिंग घुसिंगे </ContractorName>
+    <ContractorCode Code="3152">
+      <ContractorName>प्रल्हाद सखाराम ढवळे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2911">
       <ContractorName>ज्ञानेश्वर  शहाजी यादव  </ContractorName>
@@ -18713,8 +18878,8 @@
     <ContractorCode Code="3027">
       <ContractorName>कैलास खुशालराव उबाळे (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2788">
-      <ContractorName>कसलसिंग रामभाऊ राठोड </ContractorName>
+    <ContractorCode Code="3029">
+      <ContractorName>नारायण रखमाजी खोजे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2789">
       <ContractorName>विमलबाई बाबुराव कातकडे </ContractorName>
@@ -18905,8 +19070,8 @@
     <ContractorCode Code="2908">
       <ContractorName>तकाराम भगवान पेनक </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2660">
-      <ContractorName>प्रकाश तात्याबा धुमाळ </ContractorName>
+    <ContractorCode Code="2910">
+      <ContractorName>बादलसिंग भाऊसिंग घुसिंगे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2661">
       <ContractorName>दिपक हारीभाऊ धुपे </ContractorName>
@@ -19097,8 +19262,8 @@
     <ContractorCode Code="2787">
       <ContractorName>भिकाजी नाथा भोरे (समर्थ) </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2542">
-      <ContractorName>काशिनाथ बाळाजी कदम </ContractorName>
+    <ContractorCode Code="2788">
+      <ContractorName>कसलसिंग रामभाऊ राठोड </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2543">
       <ContractorName>जनार्धन सुखदेव आलुरे </ContractorName>
@@ -19289,8 +19454,8 @@
     <ContractorCode Code="2658">
       <ContractorName>लक्ष्मण दशरथ तौर </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2417">
-      <ContractorName>मुक्ताराम तुकाराम कडुळे </ContractorName>
+    <ContractorCode Code="2660">
+      <ContractorName>प्रकाश तात्याबा धुमाळ </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2419">
       <ContractorName>शरद मारोतराव इंगळे </ContractorName>
@@ -19481,8 +19646,8 @@
     <ContractorCode Code="2539">
       <ContractorName>शे. रफिक शे.लतिफ </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2267">
-      <ContractorName>दत्तु राधाजी बोडखे </ContractorName>
+    <ContractorCode Code="2542">
+      <ContractorName>काशिनाथ बाळाजी कदम </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2268">
       <ContractorName>भामाबाई मधुकर मुळे </ContractorName>
@@ -19673,8 +19838,8 @@
     <ContractorCode Code="2414">
       <ContractorName>पांडुरंग रंगनाथ पिंगळे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="2133">
-      <ContractorName>अंकुश दामोधर तौर </ContractorName>
+    <ContractorCode Code="2417">
+      <ContractorName>मुक्ताराम तुकाराम कडुळे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="2136">
       <ContractorName>रमेश सावजी राठोड </ContractorName>
@@ -19865,8 +20030,8 @@
     <ContractorCode Code="2266">
       <ContractorName>रूस्तुम त्रिंबक उगले </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1992">
-      <ContractorName>कचरू रामराव तौर </ContractorName>
+    <ContractorCode Code="2267">
+      <ContractorName>दत्तु राधाजी बोडखे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1995">
       <ContractorName>तुऴशिराम देविदास जाधव </ContractorName>
@@ -20057,8 +20222,8 @@
     <ContractorCode Code="2126">
       <ContractorName>महादु संभु डोईजड </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1851">
-      <ContractorName>निवृत्ती सखाराम मते (समर्थ) </ContractorName>
+    <ContractorCode Code="2133">
+      <ContractorName>अंकुश दामोधर तौर </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1853">
       <ContractorName>कैलास नारायण जाधव </ContractorName>
@@ -20249,8 +20414,8 @@
     <ContractorCode Code="1988">
       <ContractorName>विनायक परसराम बर्वे </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1707">
-      <ContractorName>गंगाधर बालन्ना कवठे </ContractorName>
+    <ContractorCode Code="1992">
+      <ContractorName>कचरू रामराव तौर </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1708">
       <ContractorName>आसाराम भाऊराव जावळे </ContractorName>
@@ -20441,6 +20606,9 @@
     <ContractorCode Code="1849">
       <ContractorName>आशोक रामराव खराद (समर्थ) </ContractorName>
     </ContractorCode>
+    <ContractorCode Code="1851">
+      <ContractorName>निवृत्ती सखाराम मते (समर्थ) </ContractorName>
+    </ContractorCode>
     <ContractorCode Code="1558">
       <ContractorName>गणेश भिमराव मिरकड </ContractorName>
     </ContractorCode>
@@ -20621,9 +20789,6 @@
     <ContractorCode Code="1699">
       <ContractorName>हारिभाऊ मुगाजी चाळके </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="1700">
-      <ContractorName>मिराबाई नवनाथ नांद्रे </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="1702">
       <ContractorName>गयाबाई रामभाऊ पांढरे </ContractorName>
     </ContractorCode>
@@ -20632,6 +20797,9 @@
     </ContractorCode>
     <ContractorCode Code="1705">
       <ContractorName>गणेश भिमराव मिरकड (समर्थ) </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="1707">
+      <ContractorName>गंगाधर बालन्ना कवठे </ContractorName>
     </ContractorCode>
     <ContractorCode Code="1371">
       <ContractorName>भगवान बाबासाहेब भिसे </ContractorName>
@@ -21208,6 +21376,11 @@
     </ContractorCode>
     <ContractorCode Code="1152">
       <ContractorName>नारायण जनार्धन धानुरे </ContractorName>
+    </ContractorCode>
+  </harvestorType>
+  <harvestorType type="">
+    <ContractorCode Code="7162">
+      <ContractorName>सुमित स्नेहकांत कोटेच(समर्थ हार्वेस्टर)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
